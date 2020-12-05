@@ -33,11 +33,11 @@ yarn start
 ## Aplicação
 <br>
 <p align="center">
-  <img src="https://logodownload.org/wp-content/uploads/2014/10/netflix-logo-1-1.png" width="800" alt="desktop">
+  <img src="https://raw.githubusercontent.com/jugiorgi/Netflix_Clone/main/src/assets/desktop.PNG" width="800" alt="desktop">
 
 <br>
 
-  <img src="https://logodownload.org/wp-content/uploads/2014/10/netflix-logo-1-1.png" width="800" alt="ipad">
+  <img src="https://raw.githubusercontent.com/jugiorgi/Netflix_Clone/main/src/assets/Listas.PNG" width="800" alt="listas">
 
 </p>
 
